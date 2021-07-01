@@ -1,4 +1,5 @@
-### Hi there 👋
+### [![0x646f's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x646f)](https://github.com/0x646f/github-readme-stats)
+
 
 <!--
 **0x646f/0x646f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
