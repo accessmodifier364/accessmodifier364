@@ -5,7 +5,7 @@
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=accessmodifier364.accessmodifier364&right_color=purple)
   [![github](https://img.shields.io/github/followers/accessmodifier364?label=follow&style=social)](https://github.com/accessmodifier364)</br></br>
-  Learning Java SE (soon EE) and studying computer science.</br></br></br></br>
+  Learning Java SE (soon EE) and studying computer science.</br></br>
   
 ### More about me
 
