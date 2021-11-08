@@ -1,4 +1,4 @@
-<h2> Actually, 17 years old! <img src="https://c.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif" width="20"></h2>
+<h2> Actually, 17 years old! <img src="https://c.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif" width="25"></h2>
 
 I'm learning Java SE (soon EE) and studying computer science.
 
