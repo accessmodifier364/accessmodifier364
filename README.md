@@ -11,11 +11,9 @@ Learning Java SE (soon EE) and studying computer science.
   
 
 ### More about me
-  
-   <p>
-I'm from Venezuela <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ve.png" width="25">
-Actually, 17 years old!
+
+I'm from Venezuela <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ve.png" width="25"></br>
+Actually, 17 years old!</br>
 I love cats!
-  </p>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=accessmodifier364&show_icons=true&theme=radical)</em>
